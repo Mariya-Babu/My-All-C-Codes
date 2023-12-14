@@ -1,0 +1,1 @@
+This string is added through the write system call.
